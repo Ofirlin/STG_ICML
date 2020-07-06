@@ -1,0 +1,12 @@
+pip==19
+tensorflow==1.15.0
+scipy
+ipdb
+wandb
+pandas
+matplotlib
+scikit-learn
+notebook
+lifelines
+seaborn
+torch

@@ -1,0 +1,14 @@
+{
+    "hidden_layers_node" : [60, 20, 3],
+    "learning_rate" : 0.153,
+    "learning_rate_decay" : 1.0,
+    "activation" : "selu",
+    "L1_reg" : 0.0002,
+    "L2_reg" : 0.0003,
+    "optimizer":  "adam",
+    "dropout_keep_prob" : 1.0,
+    "feature_selection": true,
+    "standardize" : true,
+    "sigma": 0.5,
+    "lam" : 1000.0
+}
