@@ -1,0 +1,11 @@
+{
+    "hidden_layers_node" : [60, 20, 2],
+    "output_node" : 2,
+    "learning_rate" : 0.01,
+    "activation" : "tanh",
+    "feature_selection": true,
+    "sigma" : 0.5,  
+    "lam" : 0.02,
+    "display_step" : 1000,
+    "param_search" : false
+}
