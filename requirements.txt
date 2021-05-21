@@ -1,5 +1,5 @@
 pip==19
-tensorflow==1.15.0
+tensorflow==2.5.0
 scipy
 ipdb
 wandb
